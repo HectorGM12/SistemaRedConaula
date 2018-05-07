@@ -1,0 +1,12 @@
+XamarinSockets.Cliente, XamarinSockets;md5ea96ecb6839f963aa7ceec1f6a06e723.Cliente
+XamarinSockets.Cliente, XamarinSockets, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ea96ecb6839f963aa7ceec1f6a06e723.Cliente
+XamarinSockets.Cliente;md5ea96ecb6839f963aa7ceec1f6a06e723.Cliente
+xamarinsockets.Cliente;md5ea96ecb6839f963aa7ceec1f6a06e723.Cliente
+XamarinSockets.MainActivity, XamarinSockets;md5ea96ecb6839f963aa7ceec1f6a06e723.MainActivity
+XamarinSockets.MainActivity, XamarinSockets, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ea96ecb6839f963aa7ceec1f6a06e723.MainActivity
+XamarinSockets.MainActivity;md5ea96ecb6839f963aa7ceec1f6a06e723.MainActivity
+xamarinsockets.MainActivity;md5ea96ecb6839f963aa7ceec1f6a06e723.MainActivity
+XamarinSockets.Servidor, XamarinSockets;md5ea96ecb6839f963aa7ceec1f6a06e723.Servidor
+XamarinSockets.Servidor, XamarinSockets, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ea96ecb6839f963aa7ceec1f6a06e723.Servidor
+XamarinSockets.Servidor;md5ea96ecb6839f963aa7ceec1f6a06e723.Servidor
+xamarinsockets.Servidor;md5ea96ecb6839f963aa7ceec1f6a06e723.Servidor

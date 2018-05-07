@@ -1,0 +1,6 @@
+C:\Users\vegue\source\repos\Sistema de re\Mensajes\bin\Debug\Mensajes.dll
+C:\Users\vegue\source\repos\Sistema de re\Mensajes\bin\Debug\Mensajes.pdb
+C:\Users\vegue\source\repos\Sistema de re\Mensajes\obj\Debug\Mensajes.csproj.CoreCompileInputs.cache
+C:\Users\vegue\source\repos\Sistema de re\Mensajes\obj\Debug\Mensajes.dll
+C:\Users\vegue\source\repos\Sistema de re\Mensajes\obj\Debug\Mensajes.pdb
+C:\Users\vegue\source\repos\Sistema de re\Mensajes\obj\Debug\Mensajes.csprojResolveAssemblyReference.cache

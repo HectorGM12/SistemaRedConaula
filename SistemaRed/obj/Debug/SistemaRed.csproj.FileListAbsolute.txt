@@ -1,0 +1,10 @@
+C:\Users\vegue\source\repos\Sistema de re\SistemaRed\bin\Debug\SistemaRed.exe.config
+C:\Users\vegue\source\repos\Sistema de re\SistemaRed\bin\Debug\SistemaRed.exe
+C:\Users\vegue\source\repos\Sistema de re\SistemaRed\bin\Debug\SistemaRed.pdb
+C:\Users\vegue\source\repos\Sistema de re\SistemaRed\bin\Debug\Mensajes.dll
+C:\Users\vegue\source\repos\Sistema de re\SistemaRed\bin\Debug\Mensajes.pdb
+C:\Users\vegue\source\repos\Sistema de re\SistemaRed\obj\Debug\SistemaRed.csprojResolveAssemblyReference.cache
+C:\Users\vegue\source\repos\Sistema de re\SistemaRed\obj\Debug\SistemaRed.csproj.CoreCompileInputs.cache
+C:\Users\vegue\source\repos\Sistema de re\SistemaRed\obj\Debug\SistemaRed.csproj.CopyComplete
+C:\Users\vegue\source\repos\Sistema de re\SistemaRed\obj\Debug\SistemaRed.exe
+C:\Users\vegue\source\repos\Sistema de re\SistemaRed\obj\Debug\SistemaRed.pdb
